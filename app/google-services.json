@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "44969251167",
+    "firebase_url": "https://paperchat-fb6a3.firebaseio.com",
+    "project_id": "paperchat-fb6a3",
+    "storage_bucket": "paperchat-fb6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44969251167:android:cb2696e9de298b8a",
+        "android_client_info": {
+          "package_name": "me.papercom.paperchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44969251167-4o45o3qrkic10b840v3gl75793kjjvba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.papercom.paperchat",
+            "certificate_hash": "68457ba3214eebb103f2bd35ecd6e5172eb173c0"
+          }
+        },
+        {
+          "client_id": "44969251167-mdqc0mq2alav11srl4tlnd99kfosihe0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "44969251167-mdqc0mq2alav11srl4tlnd99kfosihe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PIW1j-Ujg_Zax-OrPWibi4WYW48Py60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44969251167-mdqc0mq2alav11srl4tlnd99kfosihe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
